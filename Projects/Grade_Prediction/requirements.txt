@@ -1,0 +1,8 @@
+IPyKernel
+matplotlib
+pandas
+numpy
+kagglehub
+# Change index url for your specific version
+torch -i https://download.pytorch.org/whl/cu129
+torchvision -i https://download.pytorch.org/whl/cu129
