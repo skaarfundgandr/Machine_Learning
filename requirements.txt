@@ -2,6 +2,8 @@ IPyKernel
 matplotlib
 pandas
 numpy
+seaborn
+scikit-learn
 kagglehub
 # Change index url for your specific version
 torch -i https://download.pytorch.org/whl/cu129
