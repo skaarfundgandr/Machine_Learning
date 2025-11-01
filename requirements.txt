@@ -6,6 +6,8 @@ seaborn
 scikit-learn
 kagglehub
 ucimlrepo
+urllib
+graphviz
 # Change index url for your specific version
 torch -i https://download.pytorch.org/whl/cu129
 torchvision -i https://download.pytorch.org/whl/cu129
