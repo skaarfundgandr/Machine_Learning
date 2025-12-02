@@ -6,13 +6,12 @@ seaborn
 scikit-learn
 kagglehub
 ucimlrepo
-urllib
 graphviz
 gymnasium
 pygame
 # Change index url for your specific version
-torch -i https://download.pytorch.org/whl/cu129
-torchvision -i https://download.pytorch.org/whl/cu129
+torch -i https://download.pytorch.org/whl/cu130
+torchvision -i https://download.pytorch.org/whl/cu130
 # OPTIONAL NVIDIA GPUS ONLY
-torch-tensorrt -i https://download.pytorch.org/whl/cu129
-tensorrt -i https://download.pytorch.org/whl/cu129
+torch-tensorrt -i https://download.pytorch.org/whl/cu130
+tensorrt -i https://download.pytorch.org/whl/cu130
